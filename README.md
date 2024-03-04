@@ -17,12 +17,12 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <p align="center">
 Creating Users With PowerShell <br/>
-![ADLab](https://github.com/s8cred/AD_PS/assets/128871508/89a3ecd2-3531-4726-905d-f947c1d9324a)
+<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
   <p align="center">
 Creating Users With PowerShell <br/>
-![ADLab2](https://github.com/s8cred/AD_PS/assets/128871508/a3cd51ad-3414-4131-8ee5-600bcfdc8164)
+<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
